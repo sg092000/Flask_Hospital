@@ -1,0 +1,1 @@
+This is Hospital management based on flask
